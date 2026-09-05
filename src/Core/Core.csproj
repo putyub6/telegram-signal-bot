@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>TgSignal.Core</RootNamespace>
+    <AssemblyName>TgSignal.Core</AssemblyName>
+  </PropertyGroup>
+</Project>
